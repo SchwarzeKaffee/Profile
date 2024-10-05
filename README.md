@@ -7,8 +7,6 @@ Olá, me chamo Samuel e tenho 25 anos. Sou estudante de Análise e Desenvolvimen
 
 Gosto de aprender e criar coisas através da implementação da minha visão naquilo que me eleva, que traduz o que sinto e que soluciona dilemas. 
 
-Me definem: a meia-luz do entardecer ou do amanhecer, a observação constante, o esforço metódico do corpo e também a tranquila viagem da mente, nos livros e filmes encontro a síntese das ideias que me divertem em pensamento e na música ouço o diálogo daquilo que sinto.
-
 ## 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelarrudaalves)  [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=orange)](https://github.com/SchwarzeKaffee)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@cafepreto1999/)
