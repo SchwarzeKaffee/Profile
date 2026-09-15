@@ -1,11 +1,10 @@
 ---  
->  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&width=600&lines=%22Ph'nglui+mglw'nafh+Cthulhu+R'lyeh+wgah'nagl+fhtagn.%22;H.+P.+Lovecraft)](https://git.io/typing-svg)
+>  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=100&width=435&lines=%22Give+every+man+thy+ear%2C;but+few+thy+voice.%22;Polonius+%2F+Shakespeare%2C+Hamlet)](https://git.io/typing-svg)
 
 # Samuel Arruda Alves
 
-Olá, me chamo Samuel e tenho 25 anos. Sou estudante de Análise e Desenvolvimento de Sistemas, também sou Técnico em Informática desde 2016 e atualmente estudo para me tornar um desenvolvedor backend.
+Olá, me chamo Samuel e tenho 27 anos. Sou um profissional em transição para TI, estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática, com experiência em suporte a usuários, análise de informações, Power BI, sistemas corporativos, documentação de processos, melhoria contínua e qualidade; busco conquistar uma primeira oportunidade formal em TI como estagiário ou profissional de entrada em Dados/BI, Sistemas ou Suporte de TI, com disponibilidade para trabalhar à tarde e/ou remoto.
 
-Gosto de aprender e criar coisas através da implementação da minha visão naquilo que me eleva, que traduz o que sinto e que soluciona dilemas. 
 
 ## 🤝 Conecte-se comigo
 
